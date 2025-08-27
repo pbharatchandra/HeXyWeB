@@ -1,14 +1,17 @@
-It seems there was an issue displaying the preview. My apologies for that\!
-
-Here is the complete README content for you to copy. You can paste this directly into the `README.md` file on GitHub.
-
-
 # hexyweb 🕸️
 
 A simple desktop application for scraping websites, built with Python and Tkinter.
 
-![hexyweb Screenshot](https://i.imgur.com/your-screenshot-url.png)
-*(**Note:** You should take a screenshot of your application and replace the URL above to show what it looks like!)*
+--- LINKS ---
+https://www.iana.org/domains/example
+
+--- HEADINGS ---
+Example Domain
+
+--- PARAGRAPHS ---
+This domain is for use in illustrative examples in documents. You may use this
+    domain in literature without prior coordination or asking for permission.
+More information...
 
 ---
 
