@@ -2,16 +2,18 @@
 
 A simple desktop application for scraping websites, built with Python and Tkinter.
 
---- LINKS ---
-https://www.iana.org/domains/example
+**--- LINKS ---**
+https://www.exapmle.com
 
---- HEADINGS ---
-Example Domain
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/06376200-c9ac-4a5f-a2e0-149a82e32830" />
 
---- PARAGRAPHS ---
-This domain is for use in illustrative examples in documents. You may use this
-    domain in literature without prior coordination or asking for permission.
-More information...
+**--- HEADINGS ---**
+
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/4f4abd5e-f80c-4524-a7d5-81d9aa4f5010" />
+
+**--- PARAGRAPHS ---**
+
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/1a549fb9-4351-4c07-8331-e7898c6c36d8" />
 
 ---
 
@@ -71,4 +73,4 @@ Interested in running the project from the source code? Here's how:
     ```bash
     python scrap.py
     ```
-````
+
