@@ -1,18 +1,19 @@
 # hexyweb 🕸️
 
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Stars](https://img.shields.io/github/stars/pbharatchandra/HeXyWeB?style=social)
+
 A simple desktop application for scraping websites, built with Python and Tkinter.
 
-**--- LINKS ---**
-https://www.exapmle.com
-
+### --- LINKS ---
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/06376200-c9ac-4a5f-a2e0-149a82e32830" />
 
-**--- HEADINGS ---**
-
+### --- HEADINGS ---
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/4f4abd5e-f80c-4524-a7d5-81d9aa4f5010" />
 
-**--- PARAGRAPHS ---**
-
+### --- PARAGRAPHS ---
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/1a549fb9-4351-4c07-8331-e7898c6c36d8" />
 
 ---
@@ -74,3 +75,19 @@ Interested in running the project from the source code? Here's how:
     python scrap.py
     ```
 
+---
+
+### 🤝 Contributing
+Contributions are welcome!
+If you’d like to improve hexyweb, open an issue or submit a pull request.
+
+---
+
+### 📜 License
+👉 [MIT License © 2025 Bharat Chandra](https://github.com/pbharatchandra)
+
+---
+
+### ⭐ Support
+If you like this project, please star ⭐ the repository:
+👉 [hexyweb on GitHub](https://github.com/pbharatchandra/HeXyWeB)
